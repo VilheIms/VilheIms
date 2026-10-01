@@ -4,11 +4,11 @@ I'm a developer and student with a strong interest in building practical, creati
 
 ## Featured Projects
 
-- [Radiology](https://github.com/VilheIms/Radiology) — A post-apocalyptic CRPG inspired by ATOM RPG and the classic Fallout games
-- [java_sakila_DB](https://github.com/VilheIms/java_sakila_DB) — Java database project working with the Sakila database
-- [java_world_db](https://github.com/VilheIms/java_world_db) — Java database project working with the World database
-- [Liepajas-Spelite](https://github.com/VilheIms/Liepajas-Spelite) — A ShaderLab game development project
-- [Dress-up](https://github.com/VilheIms/Dress-up) — A creative Unity/ShaderLab project
+- [Radiology](https://github.com/VilheIms/Radiology) — A post-apocalyptic CRPG inspired by ATOM RPG and the classic Fallout games (ON HOLD)
+- [java_sakila_DB](https://github.com/VilheIms/java_sakila_DB) — Java database project working with the Sakila database (CURRENT FOCUS)
+- [java_world_db](https://github.com/VilheIms/java_world_db) — Java database project working with the World database (COMPLETED)
+- [Liepajas-Spelite](https://github.com/VilheIms/Liepajas-Spelite) — A ShaderLab game development project (CANCELLED)
+- [Dress-up](https://github.com/VilheIms/Dress-up) — A creative Unity/ShaderLab project (COMPLETED)
 
 ## Languages and Tools
 
